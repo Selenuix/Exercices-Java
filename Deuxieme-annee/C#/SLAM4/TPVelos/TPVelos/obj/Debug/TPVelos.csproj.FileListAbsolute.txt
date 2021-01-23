@@ -1,0 +1,10 @@
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\bin\Debug\TPVelos.exe.config
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\bin\Debug\TPVelos.exe
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\bin\Debug\TPVelos.pdb
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\obj\Debug\TPVelos.csprojAssemblyReference.cache
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\obj\Debug\TPVelos.Form1.resources
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\obj\Debug\TPVelos.Properties.Resources.resources
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\obj\Debug\TPVelos.csproj.GenerateResource.cache
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\obj\Debug\TPVelos.csproj.CoreCompileInputs.cache
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\obj\Debug\TPVelos.exe
+C:\Users\aciszek1\source\repos\TPVelos\TPVelos\obj\Debug\TPVelos.pdb

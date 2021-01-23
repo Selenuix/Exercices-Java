@@ -1,0 +1,9 @@
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\bin\Debug\GestionFilms.exe.config
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\bin\Debug\GestionFilms.exe
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\bin\Debug\GestionFilms.pdb
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\obj\Debug\GestionFilms.csprojAssemblyReference.cache
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\obj\Debug\GestionFilms.Form1.resources
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\obj\Debug\GestionFilms.Properties.Resources.resources
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\obj\Debug\GestionFilms.csproj.GenerateResource.cache
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\obj\Debug\GestionFilms.exe
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TP C#4 Gestion des films\Projet\GestionFilms\GestionFilms\obj\Debug\GestionFilms.pdb

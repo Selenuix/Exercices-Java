@@ -1,0 +1,21 @@
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\bin\Debug\GestionFilms.exe.config
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\bin\Debug\GestionFilms.exe
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\bin\Debug\GestionFilms.pdb
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.csprojAssemblyReference.cache
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.Form1.resources
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.Properties.Resources.resources
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.csproj.GenerateResource.cache
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.exe
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.pdb
+U:\Documents\SLAM4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.Form2.resources
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\bin\Debug\GestionFilms.exe.config
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\bin\Debug\GestionFilms.exe
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\bin\Debug\GestionFilms.pdb
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.csprojAssemblyReference.cache
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.Form1.resources
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.Form2.resources
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.Properties.Resources.resources
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.csproj.GenerateResource.cache
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.csproj.CoreCompileInputs.cache
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.exe
+F:\BTS\2eme Annee\SLAM 4\C#\Films\GestionFilms\GestionFilms\obj\Debug\GestionFilms.pdb

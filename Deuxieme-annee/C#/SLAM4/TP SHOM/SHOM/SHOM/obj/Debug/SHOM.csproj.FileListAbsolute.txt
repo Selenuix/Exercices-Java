@@ -1,0 +1,10 @@
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\bin\Debug\SHOM.exe.config
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\bin\Debug\SHOM.exe
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\bin\Debug\SHOM.pdb
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\obj\Debug\SHOM.csprojAssemblyReference.cache
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\obj\Debug\SHOM.formPrincipal.resources
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\obj\Debug\SHOM.Properties.Resources.resources
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\obj\Debug\SHOM.csproj.GenerateResource.cache
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\obj\Debug\SHOM.csproj.CoreCompileInputs.cache
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\obj\Debug\SHOM.exe
+F:\BTS\2ème Année\SLAM 4 - Programmation\Fichiers d'échange et web services\Exercices\TP SHOM\SHOM\SHOM\obj\Debug\SHOM.pdb

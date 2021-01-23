@@ -1,0 +1,9 @@
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\bin\Debug\LesPays.exe.config
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\bin\Debug\LesPays.exe
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\bin\Debug\LesPays.pdb
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\obj\Debug\LesPays.csprojAssemblyReference.cache
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\obj\Debug\LesPays.Form1.resources
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\obj\Debug\LesPays.Properties.Resources.resources
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\obj\Debug\LesPays.csproj.GenerateResource.cache
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\obj\Debug\LesPays.exe
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD C#3 Les pays\LesPays\LesPays\obj\Debug\LesPays.pdb

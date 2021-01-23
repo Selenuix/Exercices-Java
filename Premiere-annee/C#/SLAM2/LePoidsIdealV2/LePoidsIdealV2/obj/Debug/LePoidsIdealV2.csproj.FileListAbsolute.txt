@@ -1,0 +1,9 @@
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\bin\Debug\LePoidsIdealV2.exe.config
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\bin\Debug\LePoidsIdealV2.exe
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\bin\Debug\LePoidsIdealV2.pdb
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\obj\Debug\LePoidsIdealV2.csprojAssemblyReference.cache
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\obj\Debug\LePoidsIdealV2.Form1.resources
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\obj\Debug\LePoidsIdealV2.Properties.Resources.resources
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\obj\Debug\LePoidsIdealV2.csproj.GenerateResource.cache
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\obj\Debug\LePoidsIdealV2.exe
+F:\BTS\1ère année\SLAM2 - Programmation\Visual Studio C#\TD2\LePoidsIdealV2\LePoidsIdealV2\obj\Debug\LePoidsIdealV2.pdb
