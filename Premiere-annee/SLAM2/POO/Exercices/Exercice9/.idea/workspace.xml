@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79443348-0583-422a-8b23-2e2e41cab656" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XnXF2oVz1jabrtCQfYOGKn4LJn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exercice10" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Exercice9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercice9.Exercice9" />
+      <module name="Exercice9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercice9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercice9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79443348-0583-422a-8b23-2e2e41cab656" name="Default Changelist" comment="" />
+      <created>1581682724098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581682724098</updated>
+      <workItem from="1581682726727" duration="1655000" />
+      <workItem from="1581684478764" duration="1630000" />
+      <workItem from="1581686167632" duration="115000" />
+      <workItem from="1581686319487" duration="29000" />
+      <workItem from="1581686427319" duration="70000" />
+      <workItem from="1581686557115" duration="289000" />
+      <workItem from="1583490610823" duration="833000" />
+      <workItem from="1583491686355" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2478" y="174" key="#Custom_Plugin_Repositories" timestamp="1581686631652">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2478" y="174" key="#Custom_Plugin_Repositories/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581686631652" />
+    <state x="2660" y="184" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog" timestamp="1581685929849">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="184" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581685929849" />
+    <state x="2568" y="224" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1581684817176">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2568" y="224" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581684817176" />
+    <state x="2643" y="238" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1581685358559">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2643" y="238" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581685358559" />
+    <state x="2687" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581685209943">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2687" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581685209943" />
+    <state x="-664" y="-369" key="FileChooserDialogImpl" timestamp="1583491732920">
+      <screen x="-1080" y="-851" width="1080" height="1920" />
+    </state>
+    <state x="-664" y="-369" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-851.1080.1920@-1080.-851.1080.1920" timestamp="1583491732920" />
+    <state x="2660" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581686843709" />
+    <state width="1037" height="570" key="GridCell.Tab.0.bottom" timestamp="1583491444228">
+      <screen x="-1080" y="-851" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="570" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-851.1080.1920@-1080.-851.1080.1920" timestamp="1583491444228" />
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581685989978" />
+    <state width="1037" height="570" key="GridCell.Tab.0.center" timestamp="1583491444228">
+      <screen x="-1080" y="-851" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="570" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-851.1080.1920@-1080.-851.1080.1920" timestamp="1583491444228" />
+    <state width="1875" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581685989978" />
+    <state width="1037" height="570" key="GridCell.Tab.0.left" timestamp="1583491444228">
+      <screen x="-1080" y="-851" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="570" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-851.1080.1920@-1080.-851.1080.1920" timestamp="1583491444228" />
+    <state width="1875" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581685989978" />
+    <state width="1037" height="570" key="GridCell.Tab.0.right" timestamp="1583491444228">
+      <screen x="-1080" y="-851" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="570" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-851.1080.1920@-1080.-851.1080.1920" timestamp="1583491444228" />
+    <state width="1875" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581685989978" />
+    <state x="2387" y="158" key="SettingsEditor" timestamp="1581686813988">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2387" y="158" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581686813988" />
+    <state x="-1080" y="-593" key="new project wizard" timestamp="1583491442362">
+      <screen x="-1080" y="-851" width="1080" height="1920" />
+    </state>
+    <state x="-1080" y="-593" key="new project wizard/0.0.1920.1040/-1080.-851.1080.1920@-1080.-851.1080.1920" timestamp="1583491442362" />
+    <state x="2262" y="140" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581686844752" />
+  </component>
+</project>
